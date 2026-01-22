@@ -18,7 +18,7 @@ public class CalculatorGUI extends JFrame implements ActionListener {
     public CalculatorGUI(){
         super("Calculator");
 
-        setSize(312,600);
+        setSize(312,650);
 
         setLayout(null);
 
@@ -154,3 +154,4 @@ public class CalculatorGUI extends JFrame implements ActionListener {
     }
 
 }
+
